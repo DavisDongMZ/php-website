@@ -21,4 +21,26 @@ cd games/dev/
 Remenber change the permission if needed :).
 
 ### Functionality details on this website:
+- login page
+<img width="960" alt="login" src="https://github.com/DavisDongMZ/php-website/assets/106778621/e3881663-342d-46c5-88b3-2360db1f5429">
+
+- registration page
+<img width="400" alt="registration" src="https://github.com/DavisDongMZ/php-website/assets/106778621/a5a079d8-d4e1-492e-8ab1-a49326bb1827">
+
+- allstats page
+<img width="960" alt="allstats" src="https://github.com/DavisDongMZ/php-website/assets/106778621/39211f90-179c-4e00-aa51-7b9bb4993191">
+
+- guessNumber page
+<img width="960" alt="guessnumber" src="https://github.com/DavisDongMZ/php-website/assets/106778621/7e9ba8d2-6808-4e29-adab-ec8b22ce938f">
+
+- rockpaperscissor page
+<img width="960" alt="rockpaperscissor" src="https://github.com/DavisDongMZ/php-website/assets/106778621/723c78d5-1f4f-4465-8d82-111e2cbc2d9a">
+
+- frogpuzzle page
+<img width="960" alt="frogpuzzle" src="https://github.com/DavisDongMZ/php-website/assets/106778621/2f9589a1-bbf2-4b22-b153-40458161d3aa">
+
+- profile page
+<img width="960" alt="profile" src="https://github.com/DavisDongMZ/php-website/assets/106778621/7c1d0099-a820-46ca-bbf4-8d19a10ffcab">
+
+
 
