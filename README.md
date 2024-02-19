@@ -7,3 +7,18 @@ The PHP website is implemented by MVC (Model-View-Controller) framework, the arc
 - Controller: The controller is for user interaction, guiding visitors through the website's functionalities. It integrates with view files to present content to users.
 - Views: Files in the view folder render the website's visual interface, ensuring a dynamic and engaging user experience.
 - Models: The core business logic, such as game mechanics and data processing, resides in model files. These PHP classes encapsulate the application's functionality, facilitating modular design and maintainability.
+
+## Compile and run the project
+```bash
+git clone https://github.com/DavisDongMZ/php-website
+```
+Place the file in any folder(e.g /var/www) where you can access a server
+```bash
+cd games/dev/
+(vim/nano/...) dbconnect_string_template.php
+(Or run ./setup.sh $DB_NAME $DB_USER password=$DB_PASSWORD host=$DB_HOST)
+```
+Remenber change the permission if needed :).
+
+### Functionality details on this website:
+
