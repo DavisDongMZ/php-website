@@ -42,5 +42,12 @@ Remenber change the permission if needed :).
 - profile page
 <img width="960" alt="profile" src="https://github.com/DavisDongMZ/php-website/assets/106778621/7c1d0099-a820-46ca-bbf4-8d19a10ffcab">
 
+## Contribution
+You are welcome to contribute to this project, but I will make it public when I'm looking for a job. :) Sorry for any inconvinience.
 
-
+### Difficulties in this project
+- Understand how mvc frameworks on php.
+- Understand how $_SESSION variable works and how to pass variable from controller to views and models.
+- How to use query in php file and how to access the data from database returned by executed query.
+- Security, such as hash the password, pg_prepare() to avoid sql injection
+- css responsive design.
